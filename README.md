@@ -13,18 +13,18 @@ Designed for computer networks mini-projects, diagnostics, demos, and educationa
 
 ## 🚀 Features
 
-### ✅ Ping Tester
+###  Ping Tester
 - Tests reachability using ICMP
 - Displays latency, packet loss, RTT statistics
 - Supports both domain names and IP addresses
 - Works on Windows & Linux (auto-detects OS)
 
-### ✅ DNS Resolver
+###  DNS Resolver
 - Converts domains to IPv4 addresses
 - Uses system DNS resolver
 - Handles invalid domains gracefully
 
-### ✅ CIDR Subnet Calculator
+###  CIDR Subnet Calculator
 - Parses IPv4 CIDR (e.g., `192.168.1.0/24`)
 - Displays:
   - Network address
@@ -33,7 +33,7 @@ Designed for computer networks mini-projects, diagnostics, demos, and educationa
   - First & Last usable hosts
 - Validates input and returns detailed JSON
 
-### ✅ Frontend (Tailwind CSS)
+###  Frontend (Tailwind CSS)
 - Premium glass-UI design
 - Fully responsive layout
 - Smooth hover effects
@@ -66,34 +66,31 @@ Designed for computer networks mini-projects, diagnostics, demos, and educationa
 Ping
 
 8.8.8.8
-
 google.com
-
 10.255.255.1 (should fail)
 
 DNS
 
 openai.com
-
 youtube.com
-
 invalid.domain.xyz (fail)
 
 CIDR
 
 192.168.1.0/24
-
 10.0.0.0/8
-
 192.168.1.0/30
 
 ## 📸 Screenshots
 
-<img width="1920" height="1020" alt="Screenshot 2025-11-26 185341" src="https://github.com/user-attachments/assets/b2415218-b385-4210-a8be-7ba316a43ec8" />
 <img width="1920" height="1020" alt="Screenshot 2025-11-26 185245" src="https://github.com/user-attachments/assets/6bd8c945-7bc2-4c20-ada9-b56eb9854f02" />
+
+<img width="1920" height="1020" alt="Screenshot 2025-11-26 185341" src="https://github.com/user-attachments/assets/b2415218-b385-4210-a8be-7ba316a43ec8" />
 
 ## 🙌 Author
 
  KM Manya Muthamma
+ 
 Computer Networks Mini Project
+
 Network Access & Utility Suite (2025)
